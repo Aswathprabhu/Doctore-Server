@@ -2,7 +2,7 @@
   "name": "doctore-server",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "functions/server.js",
   "scripts": {
     "build": "netlify-lambda build express-server",
     "test": "echo \"Error: no test specified\" && exit 1",
