@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "lighthouse": "^5.1.0",
+    "lighthouse": "^9.6.7",
     "netlify-lambda": "^1.5.0",
     "serverless-http": "^2.0.2"
   },
